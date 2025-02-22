@@ -1,5 +1,6 @@
 👋 Hi, I'm Bhavana!  
-🎓 AI & ML Student | 👩‍💻 Tech Enthusiast | 🏆 CodeChef Badge Enthusiast 
+🎓 AI & ML Student | 👩‍💻 Tech Enthusiast | 🏆 CodeChef Badge Enthusiast
+
 🚀 About Me  
 - 🔭 Passionate about Artificial Intelligence & Machine Learning
 - 💡 Exploring Deep Learning and NLP  
